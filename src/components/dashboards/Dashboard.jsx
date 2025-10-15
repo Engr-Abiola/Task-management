@@ -102,14 +102,6 @@ Dashboard.propTypes = {
     email : PropTypes.string,
     password : PropTypes.string
   } )
-  /*  storageKeys : PropTypes.array.isRequired,
-   userRecord: PropTypes.shape( {
-    role: PropTypes.string.isRequired,
-    fullname: PropTypes.string,
-    profileImage: PropTypes.string,
-  } ).isRequired, */
 };
-
-
 
 export default Dashboard;
