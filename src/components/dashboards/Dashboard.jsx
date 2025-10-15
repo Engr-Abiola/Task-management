@@ -93,7 +93,6 @@ const Dashboard = ( {data} ) => {
     </div>
   )
 }
-/* stats={ { total: 42, inProgress: 10, completed: 25, pending: 7 } } */
 
 Dashboard.propTypes = {
     data : PropTypes.shape( {
